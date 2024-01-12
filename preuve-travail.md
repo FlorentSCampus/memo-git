@@ -1,3 +1,3 @@
 # RECETTE-COOKIE
 
-![screenshot](01-preuve-travail.png)
+![screenshot](img/01-preuve-travail.png)
