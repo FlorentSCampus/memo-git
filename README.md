@@ -9,7 +9,7 @@
 |git config --global user.username|Vérifier que le nom utilisateur GitHub a bien été configuré|
 |git init|Initialiser Git dans le dossier|
 |git status|Vérifer le statut Git
-|git add <readme.txt>|Ajouter le fichier (readme.txt) afin qu'il devienne une partie des modifications de Git
+|git add <file>|Ajouter le fichier (readme.txt) afin qu'il devienne une partie des modifications de Git
 |git remove||
 |git fetch||
 |git reset||
