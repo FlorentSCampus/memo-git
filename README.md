@@ -17,5 +17,3 @@ git config --global user.username "Username"      --> ajouter le nom utilisateur
 git config --global user.username                 --> vérifier que le nom utilisateur GitHub a bien été configuré
 
 git clone https://url.com	--> cloner le dépôt sur le desktop
-
-TEST
