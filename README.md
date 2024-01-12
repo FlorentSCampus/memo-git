@@ -13,6 +13,6 @@
 |git remove||
 |git fetch||
 |git reset||
-|git commit -m "message"|Soummetre un message des modifications à l'historique du dépôt Git|
+|git commit -m "message"|Soumetre un message des modifications à l'historique du dépôt Git|
 |git diff|Afficher la différence des modifications du fichier|
 |git clone https://url.com|Cloner le dépôt sur le desktop|
